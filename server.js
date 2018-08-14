@@ -10,6 +10,8 @@ let db = require('./models');
 // make a new express app named "app".
 let app = express();
 
+app.use("/favicon.ico", express.static('public/favicon.ico')); 
+
 // Body parser and encoding setup.
 app.use(bodyParser.urlencoded({
     extended: true
