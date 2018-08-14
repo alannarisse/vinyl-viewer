@@ -97,5 +97,5 @@ app.put('/api/albums/:id', (req, res) => {
 
 // This is where we serve our API!
 app.listen(process.env.PORT || 5000, () => {
-    console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
+    console.log('Your First API is running on http://localhost:5000/');
 });
