@@ -1,6 +1,10 @@
 {
   "name": "vinyl-viewer",
   "version": "0.0.1",
+  "engines": {
+    "node": "8.11.3",
+    "npm": "6.3.x"
+  },
   "description": "A Basic CRUD API",
   "main": "server.js",
   "scripts": {
