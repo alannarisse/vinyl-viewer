@@ -94,6 +94,6 @@ app.put('/api/albums/:id', (req, res) => {
 });
 
 // This is where we serve our API!
-app.listen(process.env.PORT || 5000, () => {
+app.listen(process.env.MONGOLAB_URI || 5000, () => {
     console.log('Your First API is running on http://localhost:5000/');
 });
