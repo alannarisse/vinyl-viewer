@@ -1,4 +1,5 @@
 # Vinyl Viewer
+This is a cool program
 
 This is a simple api for storing, adding and retrieving a list of vinyl I own at home or want to buy in the near future. 
 
