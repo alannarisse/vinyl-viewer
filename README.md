@@ -36,3 +36,6 @@ This was created with the help of Jean Weatherwax's great class on Skill Share h
 
 ## The future
 I'm building this with the idea of making a pretty website to display my abums, then tie in another music api to get more info about the albums. Then I can enjoy an enhanced listening and learning experience. I also want to use it to include albums I want to own but don't.
+
+
+this is great!
